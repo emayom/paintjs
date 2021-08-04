@@ -1,5 +1,5 @@
-# paintjs
+## 🎨 paintjs
 Painting Board made with VanillaJS
 
-###click 👇🏻
+### click 👇🏻
 https://emayom.github.io/paintjs/
