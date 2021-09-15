@@ -10,3 +10,6 @@ you can draw on web-canvas and save it!
 
 ### click 👇🏻
 https://emayom.github.io/paintjs/
+
+<img width="1440" alt="스크린샷 2021-09-15 오후 3 43 36" src="https://user-images.githubusercontent.com/85545101/133383843-fe6b676b-a813-422e-812b-7803d9e5cdf8.png">
+
